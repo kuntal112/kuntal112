@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Kuntal Das
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React
+- 👋 Hi, I’m #Kuntal Das
+- 👀  Web Developer
+-## Javascript
 - 📫 you can reach me on kuntaldas.112@gmail.com
 
 
